@@ -32,7 +32,7 @@
 - ⚡ Fun fact: I am a better consultant then a coder.
 
 [![Twitter: surajsugga](https://img.shields.io/twitter/follow/surajsugga?style=social)](https://twitter.com/surajsugga)
-[![Linkedin: surajsuggasingh](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surajsuggasingh/)](https://www.linkedin.com/in/surajsuggasingh/)
+[![Linkedin: surajsuggasingh](https://img.shields.io/badge/-surajsuggasingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surajsuggasingh/)](https://www.linkedin.com/in/surajsuggasingh/)
 
 
 
