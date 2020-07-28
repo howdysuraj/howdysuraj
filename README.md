@@ -22,7 +22,7 @@
 
 
 
-- 🔭 I’m currently working on [VComply](https://www.v-comply.com/).
+- 🔭 I’m currently working at [VComply](https://www.v-comply.com/).
 - 🌱 I’m currently learning Angular & System design.
 - 👯 I’m looking to collaborate on [Medium](https://medium.com/@srjssh).
 - 🤔 I’m looking for help with System engineering and architecture.
