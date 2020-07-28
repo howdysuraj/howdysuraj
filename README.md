@@ -29,7 +29,7 @@
 - 💬 Ask me about Angular or any tech related stuff.
 - 📫 How to reach me: [Twitter - @surajsugga](https://twitter.com/surajsugga) , [Instagram - @faceless_sugga](https://instagram.com/faceless_sugga/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am deadly fearless.
+- ⚡ Fun fact: I am a better consultant than a coder!.
 
 [![Twitter: surajsugga](https://img.shields.io/twitter/follow/surajsugga?style=social)](https://twitter.com/surajsugga)
 [![Linkedin: surajsuggasingh](https://img.shields.io/badge/-surajsuggasingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surajsuggasingh/)](https://www.linkedin.com/in/surajsuggasingh/)
