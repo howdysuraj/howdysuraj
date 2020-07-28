@@ -46,10 +46,10 @@
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/google-assistant.svg"></code>    
 
 <a href="https://github.com/singhsugga">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj4VComply&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsugga&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/singhsugga">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj4VComply&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=singhsugga&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats"/>
 </a>
 
 <div align="center">
