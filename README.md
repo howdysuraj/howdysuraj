@@ -22,7 +22,7 @@
 
 
 
-- 🔭 I’m currently working at [Fyle](https://www.fylehq.com/).
+- 🔭 I’m currently working at [Minoan](https://www.minoan.com/).
 - 🌱 I’m currently learning Angular & System design.
 - 👯 I’m looking to collaborate on [Medium](https://medium.com/@srjssh).
 - 🤔 I’m looking for help with System engineering and architecture.
@@ -45,15 +45,15 @@
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/google-assistant.svg"></code>    
 
-<a href="https://github.com/singhsugga">
+<!-- <a href="https://github.com/singhsugga">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsugga&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/singhsugga">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=singhsugga&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats"/>
-</a>
+</a> -->
 
 <div align="center">
 
-### Got the guts to make something really innovative ❤️ Join me at VComply!
+### Got the guts to make something really innovative ❤️ Join me at Minoan!
 
 </div>
